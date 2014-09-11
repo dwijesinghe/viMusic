@@ -1,7 +1,8 @@
 # viMusic
-## Chords tab-writing plugin for Vim
 
-This plugin can be triggered to enable a bunch of useful functions for adding chords to lyrics in Vim
+###Chords tab-writing plugin for Vim
+
+This plugin can be triggered to enable a bunch of useful functions for adding chords to lyrics in Vim.
 
 #Installation
 
