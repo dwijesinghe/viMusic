@@ -52,7 +52,7 @@ Once you've written your lyrics (in Vim, because you're awesome!), you can launc
 
 To add a blank chord line above a lyric line use this command (for all of these, replace '\' with whatever your leader key is):
 ```vim
-\a
+\s
 ```
 
 To add a chord at the cursor's current spot in the lyric line to the above chord line use this command (you must first add a chord line using the command above):
