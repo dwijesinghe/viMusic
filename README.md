@@ -30,7 +30,7 @@ FileRefresh is packaged to be easily downloadable/updateable via the Pathogen pl
 
 4. Clone the `viMusic` repo into `~/vimfiles/bundle/`:
 
-        git clone https://github.com/iVantage/viMusic.git ~/vimfiles/bundle/viMusic/
+        git clone https://github.com/DWijesinghe/viMusic.git ~/vimfiles/bundle/viMusic/
 
 To Update:
 Run git pull from within ~/vimfiles/bundle/viMusic/
