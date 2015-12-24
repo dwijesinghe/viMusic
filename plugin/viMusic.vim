@@ -96,7 +96,7 @@ function! LaunchViMusic()
 	:command! -nargs=0 Sp call SpaceLyrics()
 	map <leader>c :call ChordCopy()<cr>
 	map <leader>p :call ChordPaste()<cr>
-	map <leader>s :call SpaceLyrics()<cr>
+	map <leader>s :call AddChordLine()<cr>
 	map + :call RaiseHalf()<cr>
 	map - :call DropHalf()<cr>
 endfunction
